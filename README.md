@@ -25,9 +25,12 @@ Este dashboard de monitoramento de entregas, desenvolvido em Power BI, fornece u
 - **Análise por Tipo de Veículo**:
   - Compara o desempenho de diferentes tipos de veículos (Truck, Carreta, Toco) em relação ao cumprimento de prazos.
 
-### Visualização do Dashboard
+## Visualização do Dashboard
 
-Para acessar o dashboard interativo completo no Power BI, [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiZmRhNDUwYzgtOTU5OC00MjVjLTg4NjEtNTNkZTkxN2Q1YTZjIiwidCI6ImE4MGJmZGEzLTk4NTItNDBiNy1iYzljLWIxYWUyMzU2MmI4MCJ9).
+Clique na imagem abaixo para acessar o dashboard interativo completo no Power BI:
+
+[![Visualizar Dashboard](screenshot.png)](https://app.powerbi.com/view?r=eyJrIjoiZmRhNDUwYzgtOTU5OC00MjVjLTg4NjEtNTNkZTkxN2Q1YTZjIiwidCI6ImE4MGJmZGEzLTk4NTItNDBiNy1iYzljLWIxYWUyMzU2MmI4MCJ9)
+
 
 ### Tecnologias Utilizadas
 
